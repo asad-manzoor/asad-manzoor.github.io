@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+h1{
+    margin: 0;
+}
+.line-pro{
+    text-decoration: underline;
+}
+
+.top-container{
+    background-color: #e4f9f5;
+    position:relative;
+    padding-top: 100px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px; 
+}
+.profile{
+    padding-top: 50px;
+}
+.avatar {
+    vertical-align: middle;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+  }
+  h2{
+    color:aqua;
+    font-size: 50px;
+  }
+  h3{
+    color:aqua;
+    font-size: 25px;
+  }
+  p{
+    font-size: 20px;
+    color:#40514E;
+  }
+  hr{
+    border-bottom: 10px dotted #646868;
+    vertical-align: middle;
+    width: 6%;
+    /* border-radius: 50%; */
+    border-top: none;
+  }
