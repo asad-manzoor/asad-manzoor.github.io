@@ -15,7 +15,7 @@ body{
     color: #333;
     background-color: #fff;
     width: 100%;
-    background: url("../images/cover.jpg") no-repeat 0 0;
+    background: url("../images/cover\ hero.jpg") no-repeat 0 0;
     background-size: cover;
     background-position: center;
 }
